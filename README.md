@@ -1,4 +1,4 @@
-## Olá, eu sou Ramon
+## 
 
 ![Ramon Github Stats](https://github-readme-stats.vercel.app/api?username=ramonsous4&show_icons=true&theme=transparent)
 
